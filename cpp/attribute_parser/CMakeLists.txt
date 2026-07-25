@@ -1,1 +1,1 @@
-add_executable(Learning main.cpp)
+add_executable(attribute_parser_exec main.cpp)
