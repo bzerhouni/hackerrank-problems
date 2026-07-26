@@ -1,0 +1,1 @@
+add_executable(abstract_classes_polymorphism_exec main.cpp)
